@@ -1,7 +1,0 @@
-package com.androiddevs.mvvmnewsapp.ui
-
-import androidx.fragment.app.Fragment
-import com.androiddevs.mvvmnewsapp.R
-
-class searchFragment : Fragment(R.layout.fragment_search_news) {
-}
